@@ -1,4 +1,4 @@
-# Computer Studies (Python) e-diary
+# Computer studies (Python) E-diary
 
 
 
